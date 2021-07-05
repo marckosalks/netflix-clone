@@ -1,0 +1,30 @@
+comando em angular:
+
+INSTALAÇÃO DAS DEPEN:
+
+npm install -g @angular/cli
+
+ABRIRI APLICAÇÃO NO  NAVEGADOR:
+
+ng serve --open
+
+APP MODULE É O MODULO PRINCIPAL 
+
+
+Para renderizar uma variavel usamos:    {{titulo}}
+
+
+usar o if: *ngIf=" condição"
+
+usar for: *ngFor ="condição"
+
+shared pasta onde ficam todos os componentes do sitema 
+
+
+usamos o cli para criar os arquivos  de cada component 
+
+comando :
+
+ng g c caminho da pasta component/nome do compont
+
+estudar consumo de api com angular e manipulação de eventos 
